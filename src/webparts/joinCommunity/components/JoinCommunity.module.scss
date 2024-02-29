@@ -1,0 +1,30 @@
+
+.joinCommunityBtn:hover{
+  background-color: transparent!important;
+  color: #20417c!important;
+}
+.joinCommunityFieldBox strong{
+  margin-left: auto;
+  padding: "6px 20px";
+  margin-bottom: 5px;
+}
+.SeeAllBtn{
+  color:#20417c;
+  font-size:16px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.SeeAllBtn:hover{
+  text-decoration: underline;
+}
+.joinCommunityFieldBox a{
+  text-decoration: none;
+  cursor: pointer;
+  color: #333!important;
+}
+.joinCommunityFieldBox a:hover{
+  text-decoration: underline;
+}
+.joinCommunity{
+  border: 2px solid #d3d1d1;
+}
